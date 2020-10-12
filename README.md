@@ -1,5 +1,3 @@
-**👋 Bienvenue sur mon Github !**
-
 ## Qui suis-je ?
 ### CptConi ?
 🦊 Nicolas Renard, 💻 Dévelopeur web junior de 31 ans j'ai commencé par la POO en C# pour la conception de jeux vidéo 🕹.     
@@ -26,4 +24,4 @@ J'ai une certaine appétence pour le front, cela dit mes compétences me permett
 Vous pouvez check les repo de mon Github, je n'ai rien à cacher !
 Voici également le lien de mon Portfolio, sur lequel j'arbode quelques aspects plus techniques de mon stack: [Portfolio](https://portfolio.cptconi.vercel.app/)
 
-<img src="https://tenor.com/view/hello-peek-aboo-fox-laughing-laugh-gif-12185409">
+<img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="250px">
