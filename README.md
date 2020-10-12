@@ -1,7 +1,7 @@
 ## Qui suis-je ?
 ### CptConi ?
 🦊 Nicolas Renard, 💻 Dévelopeur web junior de 31 ans, j'ai débuté par la POO en C# pour la conception de jeux vidéo 🕹.     
-*CptConi*, c'est mon nickname sur les plate-formes internets. Pas de signification particulière.
+*CptConi*, c'est mon nickname sur diverses plate-formes internets. Pas de signification particulière pour le "Captain", Coni signifiant simplement Nico à l'envers.
 
 ### Mais le web dans tout ça ?
 Début 2020, je me suis créé l'opportunité de changer de vie. Grâce à un employeur arrangeant, j'ai pu dégager beaucoup de temps pour me former via les MOOC OpenClassrooms 🧠 au developpement web, qui est vite devenu une passion à part entière .     
