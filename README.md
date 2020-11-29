@@ -16,12 +16,12 @@ Enfin, ma dernière passion et non des moindres, que j'affectionne depuis 30 ans
 Coté purement technique, je suis fasciné par les résultats de la ♻ recursivité couplé à la 🎲🌱 RNG. Appliqué aux jeux vidéos et autres enigmes, cela permets d'obtenir des resultats impressionants 😱✨🤯!
 
 ### Et Maintenant ?
-Aujourd'hui, je suis sur la dernière ligne droite pour obtenir ma certification d'état de développeur Web 🎓, et je suis à la recherche d'un poste en CDI ou freelance 👨‍💼.
-J'ai une certaine appétence pour le front, cela dit mes compétences me permettent de porter l'étiquette du développeur Full-Stack.
+Aujourd'hui, j'ai ma certification d'état de développeur Web 🎓, et je suis à la recherche d'un poste en CDI ou freelance 👨‍💼.
+J'ai une certaine appétence pour le front, et pour l'utilisation de React. Cela dit mes compétences me permettent de porter l'étiquette du développeur Full-Stack.
 
 
 ## Pour mieux me connaître:
 Vous pouvez check les repo de mon Github, je n'ai rien à cacher !
-Voici également le lien de mon Portfolio, sur lequel j'arbode quelques aspects plus techniques de mon stack: [Portfolio](https://portfolio.cptconi.vercel.app/)
+Voici également le lien de mon Portfolio, sur lequel j'aborde quelques aspects plus techniques de mon stack: [Portfolio](https://portfolio.cptconi.vercel.app/)
 
 <img align='right' src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="250px">
