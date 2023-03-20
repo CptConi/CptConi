@@ -1,6 +1,6 @@
 ## Qui suis-je ?
 ### CptConi ?
-🦊 Nicolas Renard, 💻 Dévelopeur web full-stack de 31 ans, j'ai débuté par la POO en C# pour la conception de jeux vidéo 🕹.     
+🦊 Nicolas Renard, 💻 Dévelopeur web full-stack de 33 ans, j'ai débuté par la POO en C# pour la conception de jeux vidéo 🕹.     
 *CptConi*, c'est mon nickname sur diverses plate-formes internets. Pas de signification particulière pour le "Captain", Coni signifiant simplement Nico à l'envers.
 
 ### Mais le web dans tout ça ?
@@ -13,10 +13,10 @@ Bien que j'aime le développement et l'exercice de pensée lié à la conception
 D'autre part, j'ai découvert pendant récemment une nouvelle passion, la cuisine 👨‍🍳 et la pâtisserie 🍰.   
 Je suis également un amoureux des chats 🐱‍👤.    
 Enfin, ma dernière passion et non des moindres, que j'affectionne depuis plus de 30 ans maintenant: jeux vidéos 🎮. Particulièrement les jeux issus de studios indépendants, dans les lequels on peut découvrir dans sa conception l'esprit du concepteur.   
-Coté purement technique, je suis fasciné par les résultats de la ♻ recursivité couplé à la 🎲🌱 RNG. Appliqué aux jeux vidéos et autres enigmes, cela permets d'obtenir des resultats impressionants 😱✨🤯!
+
 
 ### Et Maintenant ?
-Aujourd'hui, j'ai ma certification d'état de développeur Web 🎓, et je suis en poste en tant que Dev front Angular et je m'éclate 🐱‍🏍!
+Aujourd'hui, je suis dev full stack et c'est cool !
 
 
 ## Pour mieux me connaître:
